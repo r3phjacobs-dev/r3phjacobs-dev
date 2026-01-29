@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm r3phjacobs-dev 👋
 
-<!--
-**r3phjacobs-dev/r3phjacobs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Expert MQL5 Developer & Creator of **Forex Home Expert**. I build high-precision trading tools to help the global community trade smarter.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects:
+- 🚀 **TMA Assistant Bot**: Advanced Telegram integration for real-time analysis.
+- 📊 **Forex Home Expert**: Free premium indicators and educational resources.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Let's Connect:
+- 🌍 **Website:** [forexhomeexpert.com](https://www.forexhomeexpert.com)
+- 🤖 **Telegram Bot:** [@Roberto3RJfxbot](https://t.me/Roberto3RJfxbot)
+
+---
+*"We sustain our business and hard work through minimal advertising support so that all tools remain free for traders."*
